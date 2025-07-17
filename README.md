@@ -53,28 +53,6 @@
 
 ---
 
-### 🎮 Mini Snake Game
-<details>
-<summary>🕹️ Klik untuk main Snake Game!</summary>
-
-<div align="center">
-
-<iframe src="https://github.com/Zendrato12/snake-game.git" width="400" height="400" frameborder="0"></iframe>
-
-</div>
-</details>
-
-
-<div align="center">
-
-<!-- Embed Snake Game -->
-<iframe src="https://github.com/Zendrato12/snake-game.git" width="400" height="400" frameborder="0"></iframe>
-
-</div>
-
-</details>
-
----
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zendrato12&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
