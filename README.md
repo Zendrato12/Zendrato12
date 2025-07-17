@@ -68,7 +68,7 @@
 <div align="center">
 
 <!-- Embed Snake Game -->
-<iframe src="https://advent-zendrato.github.io/snake-game/" width="400" height="400" frameborder="0"></iframe>
+<iframe src="https://github.com/Zendrato12/snake-game.git" width="400" height="400" frameborder="0"></iframe>
 
 </div>
 
