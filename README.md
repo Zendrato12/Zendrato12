@@ -54,10 +54,16 @@
 ---
 
 ### 🎮 Mini Snake Game
-> Kamu bisa main langsung Snake Game di bawah ini 🐍👇
-
 <details>
 <summary>🕹️ Klik untuk main Snake Game!</summary>
+
+<div align="center">
+
+<iframe src="https://github.com/Zendrato12/snake-game.git" width="400" height="400" frameborder="0"></iframe>
+
+</div>
+</details>
+
 
 <div align="center">
 
